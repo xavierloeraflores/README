@@ -1,7 +1,8 @@
 repo_name: xavierloeraflores/README
 report_id: 2374e43030ee37b366de7bc62d3fdc48
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T13:03:27+00:00'
+timestamp: '2024-01-05T08:38:40+00:00'
 requested_by: hamstu
 provider: github
 branch: master
@@ -16,7 +17,8 @@ tools:
   category: Data Stores
   sub_category: Big Data Tools
   image_url: https://img.stackshare.io/service/2220/ca72c4715da998b0bf5d1c857958bed3.png
-  detection_source: teams/data/docs/runbooks/spark/spark-ec2/spark-defaults.conf
+  detection_source_url: https://github.com/xavierloeraflores/README/blob/master/teams/data/docs/runbooks/spark/flintrock/spark-defaults.conf
+  detection_source: teams/data/docs/runbooks/spark/flintrock/spark-defaults.conf
   last_updated_by: David Gasquez
   last_updated_on: 2018-05-17 10:33:06.000000000 Z
 - name: Git
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/xavierloeraflores/README
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -37,4 +40,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/xavierloeraflores/README
   detection_source: Repo Metadata
