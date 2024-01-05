@@ -1,28 +1,32 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/README is built on the following main stack:
+
 - [Apache Spark](https://spark.apache.org/) – Big Data Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/README is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/2220/ca72c4715da998b0bf5d1c857958bed3.png' alt='Apache Spark'/> [Apache Spark](https://spark.apache.org/) – Big Data Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [xavierloeraflores/README](https://github.com/xavierloeraflores/README)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|11/16/23 <br/>Report generated|
+|3<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
